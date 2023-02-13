@@ -61,3 +61,13 @@ WORKING ISSUE
 Karen is coordinating with the Systems admin team to get banking back online and solve the issue.
 </p>
 <br />
+
+<p>
+RESOLUTION
+</p>
+<img src="https://i.imgur.com/z388ajV.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Karen reported that Jerry from Systems Engineering team found a solution to the problem.
+</p>
+<br />
